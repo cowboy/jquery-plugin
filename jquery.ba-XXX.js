@@ -27,7 +27,7 @@
 // These working examples, complete with fully commented code, illustrate a few
 // ways in which this plugin can be used.
 // 
-// XXX - http://benalman.com/code/projects/jquery-XXX/examples/fragment-basic/
+// XXX - http://benalman.com/code/projects/jquery-XXX/examples/XXX/
 // 
 // About: Support and Testing
 // 
