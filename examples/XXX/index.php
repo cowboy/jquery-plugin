@@ -67,6 +67,7 @@ ob_end_clean();
 
 ob_start();
 ?>
+<?= $shell['donate'] ?>
 
 <p>
   With <a href="http://benalman.com/projects/jquery-XXX-plugin/">jQuery PLUGIN</a> you can...
@@ -77,6 +78,8 @@ ob_start();
 <p>CONTENT</p>
 
 <h3>The code</h3>
+
+<div class="clear"></div>
 
 <pre class="brush:js">
 <?= htmlspecialchars( $shell['script'] ); ?>

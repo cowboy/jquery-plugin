@@ -1,24 +1,24 @@
 /*!
- * jQuery XXX: SHORT_DESCRIPTION - v1.0pre - ??/??/2009
+ * jQuery XXX: SHORT_DESCRIPTION - v1.0pre - ??/??/2010
  * http://benalman.com/projects/jquery-XXX-plugin/
  * 
- * Copyright (c) 2009 "Cowboy" Ben Alman
+ * Copyright (c) 2010 "Cowboy" Ben Alman
  * Dual licensed under the MIT and GPL licenses.
  * http://benalman.com/about/license/
  */
 
 // Script: jQuery XXX: SHORT_DESCRIPTION
 //
-// *Version: 1.0pre, Last updated: ??/??/2009*
+// *Version: 1.0pre, Last updated: ??/??/2010*
 // 
 // Project Home - http://benalman.com/projects/jquery-XXX-plugin/
 // GitHub       - http://github.com/cowboy/jquery-XXX/
 // Source       - http://github.com/cowboy/jquery-XXX/raw/master/jquery.ba-XXX.js
-// (Minified)   - http://github.com/cowboy/jquery-XXX/raw/master/jquery.ba-XXX.min.js (3.1kb)
+// (Minified)   - http://github.com/cowboy/jquery-XXX/raw/master/jquery.ba-XXX.min.js (X.Xkb)
 // 
 // About: License
 // 
-// Copyright (c) 2009 "Cowboy" Ben Alman,
+// Copyright (c) 2010 "Cowboy" Ben Alman,
 // Dual licensed under the MIT and GPL licenses.
 // http://benalman.com/about/license/
 // 
@@ -35,13 +35,13 @@
 // tested with, what browsers it has been tested in, and where the unit tests
 // reside (so you can test it yourself).
 // 
-// jQuery Versions - 1.3.2
-// Browsers Tested - Internet Explorer 6-8, Firefox 2-3.7, Safari 3-4, Chrome, Opera 9.6-10.
+// jQuery Versions - 1.4, 1.3.2
+// Browsers Tested - Internet Explorer 6-8, Firefox 2-3.6, Safari 3-4, Chrome, Opera 9.6-10.1.
 // Unit Tests      - http://benalman.com/code/projects/jquery-XXX/unit/
 // 
 // About: Release History
 // 
-// 1.0pre - (??/??/2009) Pre-Initial release
+// 1.0pre - (??/??/2010) Pre-Initial release
 
 (function($){
   '$:nomunge'; // Used by YUI compressor.
