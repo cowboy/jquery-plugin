@@ -1,0 +1,41 @@
+{
+   "name": "cowboy-jquery-XXX",
+   "version": "1.X.X",
+   "description": "Plugin Name. Plugin Description.",
+   "url": "http://benalman.com/projects/jquery-XXX-plugin/",
+   "keywords": [ "foo", "bar" ],
+   "maintainers": [
+       {
+           "name": "\"Cowboy\" Ben Alman",
+           "web": "http://benalman.com/"
+       } 
+   ],
+   "contributors": [
+       {
+           "name": "\"Cowboy\" Ben Alman",
+           "web": "http://benalman.com/"
+       } 
+   ],
+   "bugs": {
+       "web": "http://github.com/cowboy/jquery-XXX/issues" 
+   },
+   "licenses": [
+       {
+           "type": "MIT",
+           "url": "http://benalman.com/about/license/" 
+       },
+       {
+           "type": "GPLv2",
+           "url": "http://benalman.com/about/license/" 
+       } 
+   ],
+   "repositories": [
+       {
+           "type": "git",
+           "url": "http://github.com/cowboy/jquery-XXX.git" 
+       } 
+   ],
+   "dependencies": {
+       "jquery": [ "1.3.2", "1.4.0" ]
+   }
+}
