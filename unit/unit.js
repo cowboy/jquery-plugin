@@ -3,6 +3,8 @@ QUnit.jsDump.HTML = false;
 
 $(function(){ // START CLOSURE
 
+$('#jq_version').html( $.fn.jquery );
+
 
 module( 'foo' );
 
