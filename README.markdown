@@ -1,7 +1,7 @@
 # jQuery PLUGIN: SHORT_DESCRIPTION #
 [http://benalman.com/projects/jquery-XXX-plugin/](http://benalman.com/projects/jquery-XXX-plugin/)
 
-Version: 1.0pre, Last updated: ??/??/2010
+Version: 1.0pre, Last updated: ?/??/2010
 
 jQuery PLUGIN does...
 
