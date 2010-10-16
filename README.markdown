@@ -24,7 +24,7 @@ tested with, what browsers it has been tested in, and where the unit tests
 reside (so you can test it yourself).
 
 ### jQuery Versions ###
-1.4.2, 1.3.2
+1.4.3, 1.4.2, 1.3.2
 
 ### Browsers Tested ###
 Internet Explorer 6-8, Firefox 3-3.6, Safari 3-4, Chrome 3-5, Opera 9.6-10.5.
